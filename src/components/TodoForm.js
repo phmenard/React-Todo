@@ -23,6 +23,7 @@ class TodoForm extends React.Component {
     return (
       <form onSubmit={this.submitItem}>
         <input
+          placeholder="...todo"  
           type="text"
           value={this.state.item}
           name="item"
