@@ -1,0 +1,23 @@
+.App {
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: grey;
+    padding: 1%;
+    border-radius: 2px;
+    
+}
+
+.header {
+    color: wheat; 
+    display: flex;
+    justify-content: center;
+}
